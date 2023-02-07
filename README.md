@@ -2,5 +2,6 @@
 Notes and Material
 
 ### To update node
-$ npm install -g n
+
+$ npm install -g n <br />
 $ n lts
